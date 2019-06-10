@@ -1,5 +1,5 @@
 # darknet visualizer
-A visualizer of [darknet](https://github.com/pjreddie/darknet/) nerual network's network providing the .cfg file.
+A visualizer of [darknet](https://github.com/pjreddie/darknet/) nerual network's network.
 
 Supporting: YOLO v3
 
